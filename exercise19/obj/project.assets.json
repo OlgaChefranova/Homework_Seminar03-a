@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\seminar3\\exercise21\\exercise21.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\seminar3\\exercise19\\exercise21.csproj",
       "projectName": "exercise21",
-      "projectPath": "C:\\Users\\User\\Desktop\\seminar3\\exercise21\\exercise21.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\seminar3\\exercise19\\exercise21.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\seminar3\\exercise21\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\seminar3\\exercise19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
